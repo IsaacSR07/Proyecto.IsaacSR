@@ -10,23 +10,7 @@ Proyecto de Programación #2. Es un programa en C++ que se usa desde la consola 
 |--------|--------|
 | Isaac Sánchez Ramírez | 208910635 |
 
-## Cómo compilar
 
-Abrir una terminal en la carpeta del proyecto y escribir:
-
-```
-g++ -std=c++11 -o PlanillaHospital *.cpp
-```
-
-También se puede usar `make`.
-
-## Cómo ejecutar
-
-```
-./PlanillaHospital
-```
-
-En Windows es `PlanillaHospital.exe`.
 
 ## Cómo usar
 
